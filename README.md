@@ -28,5 +28,12 @@ Focused on efficiency, clarity, and well structured implementations that are eas
 
 ## Tech Stack 
 - Language : Python 3 
-- Focus    : Efficiency,Clarity and Clean Coding Principles 
+- Focus    : Writing Optimized and Easy to Understand Solutions
 
+--- 
+
+## Setup 
+To set up the files on your local machines, follow this steps
+1. **Clone The Repository**
+   '''bash
+   git clone https://github.com/your-username/DSA-Python.git
