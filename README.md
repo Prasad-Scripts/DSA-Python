@@ -1,12 +1,12 @@
 # DSA with Python 
 
 Clean and optimized Data Structures & Algorithms solutions in Python.
-Focused on efficiency, clarity, and well structured implementations that are easy to understand
+Focused on efficiency, clarity, and well structured implementations that are easy-to-understand
 
 ---
 
 ## Features 
-- Clean and Readable Python Code
+- Clean and readable Python Code
 - Optimized Solutions with clear logic
 - Covers Core Data Structures & Algorithms
 - Well Structured Folders for Easy Navigation
@@ -21,7 +21,7 @@ Focused on efficiency, clarity, and well structured implementations that are eas
 - Sorting & Searching
 - Dynamic Programming
 - Recursion & Backtracking
-- Math Related Programs
+- Math-Related Programs
 - Other Fundamental Algorithms
 
 ---
@@ -33,7 +33,7 @@ Focused on efficiency, clarity, and well structured implementations that are eas
 --- 
 
 ## Setup 
-To set up the files on your local machine, follow this steps
+To set up the files on your local machine, follow these steps:
 ### 1. Clone the repository  
 ```bash
 git clone https://github.com/your-username/DSA-Python.git
@@ -46,5 +46,6 @@ cd DSA-Python
 ```bash
 python filename.py
 ```
+
 
 
