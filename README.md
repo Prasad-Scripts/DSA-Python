@@ -33,8 +33,18 @@ Focused on efficiency, clarity, and well structured implementations that are eas
 --- 
 
 ## Setup 
-To set up the files on your local machines, follow this steps
+To set up the files on your local machine, follow this steps
 ### 1. Clone the repository  
 ```bash
 git clone https://github.com/your-username/DSA-Python.git
+```
+### 2. Navigate into the main directory 
+```bash
+cd DSA-Python
+```
+### 3. Run any solution file 
+```bash
+python filename.py
+```
+
 
