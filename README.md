@@ -27,5 +27,6 @@ Focused on efficiency, clarity, and well structured implementations that are eas
 ---
 
 ## Tech Stack 
-** Language: ** Python 3 
-** Focus: ** Efficiency,Clarity and Clean Coding Principles 
+- Language : Python 3 
+- Focus    : Efficiency,Clarity and Clean Coding Principles 
+
